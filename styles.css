@@ -1,0 +1,95 @@
+body {
+	background-color: #3B3B3B;
+}
+
+.GG {
+	display: flex;
+	justify-content: center;
+	padding: 10px 0px;
+	gap: 0px 10px;
+}
+
+.EE, .EE-Q {
+	display: flex;
+	margin: 0px 0px;
+	width: 600px;
+	height: 100px;
+	background-color: #5E5E5E;
+	color: white;
+	border-radius: 9000px;
+	justify-content: center;
+	align-items: center;
+	font-size: 40px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.EE-Q {
+	width: 700px;
+	height: 50px;
+	font-size: 30px;
+}
+
+.EEL {
+	display: flex;
+	width: 100px;
+	height: 100px;
+	background-color: #5E5E5E;
+	color: white;
+	border-radius: 9000px;
+	justify-content: center;
+	align-items: center;
+	font-size: 40px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.GG1 {
+	display: flex;
+	justify-content: center;
+	padding: 10px 0px;
+	gap: 0px 10px;
+}
+
+.NN {
+	width: 40px;
+	height: 40px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #5E5E5E;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	color: white;
+
+}
+
+.NNG {
+	width: 40px;
+	height: 40px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #5e5e5e00;
+
+}
+
+.GG2 {
+	display: block;
+	justify-content: center;
+	padding: 10px 0px;
+}
+
+.XX {
+	width: 140px;
+	height: 50px;
+	display: flex;
+	border-radius: 9000px;
+	justify-content: center;
+	align-items: center;
+	background-color: #5E5E5E;
+	color: white;
+}
+
+.X {
+	display: flex;
+	justify-content: center;
+	padding: 1px 0px;
+}
